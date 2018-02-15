@@ -49,8 +49,19 @@ nav{
     box-sizing: border-box;
 }
 
-#article{
+#article_title {
+    height: 30px;
+    width: 450px;
+    margin: 0 0 15px 0; 
+    background-color: #777777; 
+    color: #ebebeb;
+}
 
+#info {
+    height: 100px;
+    width: 450px;
+    background-color: #777777; 
+    color: #ebebeb;   
 }
 
 footer{
